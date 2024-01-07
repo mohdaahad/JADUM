@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/JADUM/static/css/main.f96f07a4.css",
+    "main.js": "/JADUM/static/js/main.b9bd2173.js",
+    "static/js/787.d5fa4d18.chunk.js": "/JADUM/static/js/787.d5fa4d18.chunk.js",
+    "static/media/g7.jpeg": "/JADUM/static/media/g7.ff7471ccf931544b4d8d.jpeg",
+    "static/media/g6.jpeg": "/JADUM/static/media/g6.c00d1e95bc29804e4eb7.jpeg",
+    "static/media/g8.jpeg": "/JADUM/static/media/g8.6543b14cb918059fc063.jpeg",
+    "static/media/g2.jpeg": "/JADUM/static/media/g2.9a49f8ccbd2b479351be.jpeg",
+    "static/media/g12.jpeg": "/JADUM/static/media/g12.952b972a101bbf6fea91.jpeg",
+    "static/media/g10.jpeg": "/JADUM/static/media/g10.4f098df5149042ee9048.jpeg",
+    "static/media/g11.jpeg": "/JADUM/static/media/g11.6cdbec76b2d368cfbd8e.jpeg",
+    "static/media/g3.jpeg": "/JADUM/static/media/g3.966359bf7c06d2cbffa2.jpeg",
+    "static/media/g5.jpeg": "/JADUM/static/media/g5.29cef02d51ea400a17a9.jpeg",
+    "static/media/g4.jpeg": "/JADUM/static/media/g4.f0163acd8162fe9c7c77.jpeg",
+    "static/media/g9.jpeg": "/JADUM/static/media/g9.c201533f0b3e8ff08068.jpeg",
+    "static/media/g1.jpeg": "/JADUM/static/media/g1.9da98895498e41e75953.jpeg",
+    "static/media/pilar-4.jpg": "/JADUM/static/media/pilar-4.a55ccf332bea10a3de04.jpg",
+    "static/media/pilar-5.jpg": "/JADUM/static/media/pilar-5.04d418128f8aad9e826f.jpg",
+    "static/media/pilar-2.jpg": "/JADUM/static/media/pilar-2.792d0c344ae618483ea3.jpg",
+    "static/media/pilar-3.jpg": "/JADUM/static/media/pilar-3.9edfff89abb247857847.jpg",
+    "static/media/mistion2.jpg": "/JADUM/static/media/mistion2.77f138c5a159c8a68d88.jpg",
+    "static/media/pilar-1.jpg": "/JADUM/static/media/pilar-1.180b997ec78075482502.jpg",
+    "static/media/mistion.jpg": "/JADUM/static/media/mistion.898781f00d1b00438e1e.jpg",
+    "static/media/logo.jpeg": "/JADUM/static/media/logo.d299cdbc0c8f095e2c38.jpeg",
+    "static/media/logo.png": "/JADUM/static/media/logo.f52d71971c034876bb66.png",
+    "static/media/m5.jpeg": "/JADUM/static/media/m5.5e61a46801be4a43e416.jpeg",
+    "static/media/m2.jpeg": "/JADUM/static/media/m2.c3489ff98bddf6b00110.jpeg",
+    "static/media/m4.jpeg": "/JADUM/static/media/m4.4aba7eeb4a667c429405.jpeg",
+    "static/media/arif.jpeg": "/JADUM/static/media/arif.e73c6c63581044e308ff.jpeg",
+    "static/media/m6.jpeg": "/JADUM/static/media/m6.498bc16d7d6975f66724.jpeg",
+    "static/media/mo arif.jpeg": "/JADUM/static/media/mo arif.4ad4db6ff2c18398b55c.jpeg",
+    "index.html": "/JADUM/index.html",
+    "main.f96f07a4.css.map": "/JADUM/static/css/main.f96f07a4.css.map",
+    "main.b9bd2173.js.map": "/JADUM/static/js/main.b9bd2173.js.map",
+    "787.d5fa4d18.chunk.js.map": "/JADUM/static/js/787.d5fa4d18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f96f07a4.css",
+    "static/js/main.b9bd2173.js"
+  ]
+}
