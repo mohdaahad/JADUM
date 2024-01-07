@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/JADUM/static/css/main.f96f07a4.css",
-    "main.js": "/JADUM/static/js/main.ee6e4a3b.js",
+    "main.js": "/JADUM/static/js/main.c74af5bb.js",
     "static/js/787.d5fa4d18.chunk.js": "/JADUM/static/js/787.d5fa4d18.chunk.js",
     "static/media/g7.jpeg": "/JADUM/static/media/g7.ff7471ccf931544b4d8d.jpeg",
     "static/media/g6.jpeg": "/JADUM/static/media/g6.c00d1e95bc29804e4eb7.jpeg",
@@ -32,11 +32,11 @@
     "static/media/mo arif.jpeg": "/JADUM/static/media/mo arif.4ad4db6ff2c18398b55c.jpeg",
     "index.html": "/JADUM/index.html",
     "main.f96f07a4.css.map": "/JADUM/static/css/main.f96f07a4.css.map",
-    "main.ee6e4a3b.js.map": "/JADUM/static/js/main.ee6e4a3b.js.map",
+    "main.c74af5bb.js.map": "/JADUM/static/js/main.c74af5bb.js.map",
     "787.d5fa4d18.chunk.js.map": "/JADUM/static/js/787.d5fa4d18.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f96f07a4.css",
-    "static/js/main.ee6e4a3b.js"
+    "static/js/main.c74af5bb.js"
   ]
 }
